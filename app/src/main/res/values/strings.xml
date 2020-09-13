@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Panaderia</string>
+    <string name="Nombre1_String">Nombre</string>
+    <string name="kilo_p1_String">Pan</string>
+    <string name="kilo_t1_String">Tor</string>
+    <string name="Total1_String">Total</string>
+    <string name="Deve1_String">Deve</string>
+    <string name="Tituloxkilo">Por Kilo</string>
+</resources>
